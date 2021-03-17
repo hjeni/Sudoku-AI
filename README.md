@@ -3,7 +3,7 @@
 This is a semestral project from BI-ZUM (Artificial Intelligence course) on FIT CTU. 
 
 The project compares regular Hill climbing algorithm to the Beta Hill Climbing algorithm, both used for a Sudoku solution optimization. 
-While Hill climbing is a simple optimization algorithm without any exploration, therefore has strong tendency to converge to wrong, sub-optimal slution. On the other hand, Beta Hill Climbing is a technique which introduces exploration (more popular version of exploratory local search algorithms are such as Simulated Annealing, Tabu Search). Two approaches to the Beta Hill climbing are implemented.
+Hill climbing is a simple optimization algorithm without any exploration, therefore has a strong tendency to converge to wrong, sub-optimal solutions. On the other hand, Beta Hill Climbing is a technique which introduces exploration (more popular version of exploratory local search algorithms are such as Simulated Annealing, Tabu Search). Two different approaches to the Beta Hill climbing are implemented and compared. 
 
 ### Beta Hill Climbing links:
 
